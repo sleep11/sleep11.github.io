@@ -7,7 +7,17 @@ h1 {
   color: white;
   text-align: center;
   font-family: helvetica;
+  margin-right:0px;
 }
+body {
+  margin-top:25px;
+  .writing { 
+  position: absolute;
+  top: 170px;
+  left: 350px 
+  }
+}
+
 
 h3 {
   color: white;
@@ -16,5 +26,4 @@ h3 {
 }
 a {
    color: cornflowerblue;
-
 }
