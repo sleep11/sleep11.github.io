@@ -12,10 +12,11 @@ h1 {
 body {
   margin-top:25px;
   color: white;
+  width: 50%
 }
 
 
-h3 {
+p {
   color: white;
   font-family: helvetica;
   font-size: 20px;
