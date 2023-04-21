@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(40,43,48);
+  text-align: left;
+}
+
+h1 {
+  color: white;
+  font-family: helvetica;
+}
+
+p {
+  color: white;
+  font-family: helvetica;
+  font-size: 11px;
+  width:30%;
+}
+a {
+   color: cornflowerblue;
+}
